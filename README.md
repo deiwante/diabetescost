@@ -21,7 +21,7 @@ To delve into this analysis, ensure the availability of the following tools and 
 
 ### Installation
 
-```bash
+
 pip install jupyter ipykernel pandas seaborn dash plotly pymysql sqlalchemy
 
 
